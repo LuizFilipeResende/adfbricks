@@ -1,0 +1,9 @@
+{
+	"name": "adf-adfbricks-luizr",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a69709e1-76c7-43ee-9521-e001207f561f",
+		"tenantId": "e4f94435-07c8-4b1d-936b-15b7c4087a92"
+	}
+}
