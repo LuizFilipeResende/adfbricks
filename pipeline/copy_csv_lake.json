@@ -21,6 +21,7 @@
 							"type": "AzureBlobFSReadSettings",
 							"recursive": true,
 							"wildcardFolderPath": "sttreinamento01luizr",
+							"wildcardFileName": "moviesDB.csv",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
